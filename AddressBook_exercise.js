@@ -1,3 +1,5 @@
+//warning: syntax older than ES6 !!!
+
 var bob = {
     firstName: "Bob",
     lastName: "Jones",

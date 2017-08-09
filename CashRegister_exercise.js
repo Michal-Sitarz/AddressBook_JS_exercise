@@ -1,3 +1,5 @@
+//warning: syntax older than ES6 !!!
+
 var cashRegister = {
     total:0,
     //Dont forget to add your property
